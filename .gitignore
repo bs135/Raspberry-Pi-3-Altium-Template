@@ -1,0 +1,13 @@
+*.PrjPcbStructure
+
+/History
+/\_\_Previews
+/Logs
+/Outputs
+
+/lib/History/
+/lib/\_\_Previews
+/lib/Logs
+/lib/Outputs
+
+/images/Thumbs.db
